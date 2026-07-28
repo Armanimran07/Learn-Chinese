@@ -1,0 +1,27 @@
+{
+  "chapter_number": 12,
+  "title": "Renting a House (租房子)",
+  "description": "Vocabulary for housing, rooms, rent, and furniture.",
+  "vocabulary": [
+    {"hanzi": "房子", "pinyin": "fángzi", "meaning": "house / apartment", "part_of_speech": "noun", "example_sentence": "買房子很貴。", "example_translation": "Buying a house is very expensive."},
+    {"hanzi": "房間", "pinyin": "fángjiān", "meaning": "room", "part_of_speech": "noun", "example_sentence": "這是我的房間。", "example_translation": "This is my room."},
+    {"hanzi": "房東", "pinyin": "fángdōng", "meaning": "landlord", "part_of_speech": "noun", "example_sentence": "房東人很好。", "example_translation": "The landlord is very nice."},
+    {"hanzi": "租金", "pinyin": "zūjīn", "meaning": "rent (money)", "part_of_speech": "noun", "example_sentence": "一個月租金多少？", "example_translation": "How much is the rent for one month?"},
+    {"hanzi": "搬家", "pinyin": "bānjiā", "meaning": "to move house", "part_of_speech": "verb", "example_sentence": "我下個月搬家。", "example_translation": "I am moving next month."},
+    {"hanzi": "客廳", "pinyin": "kètīng", "meaning": "living room", "part_of_speech": "noun", "example_sentence": "在客廳看電視。", "example_translation": "Watch TV in the living room."},
+    {"hanzi": "廚房", "pinyin": "chúfáng", "meaning": "kitchen", "part_of_speech": "noun", "example_sentence": "他在廚房做飯。", "example_translation": "He is cooking in the kitchen."},
+    {"hanzi": "浴室", "pinyin": "yùshì", "meaning": "bathroom", "part_of_speech": "noun", "example_sentence": "浴室在這裡。", "example_translation": "The bathroom is here."},
+    {"hanzi": "臥室", "pinyin": "wòshì", "meaning": "bedroom", "part_of_speech": "noun", "example_sentence": "這是主臥室。", "example_translation": "This is the master bedroom."},
+    {"hanzi": "沙發", "pinyin": "shāfā", "meaning": "sofa", "part_of_speech": "noun", "example_sentence": "坐在沙發上", "example_translation": "Sit on the sofa"},
+    {"hanzi": "電視", "pinyin": "diànshì", "meaning": "television", "part_of_speech": "noun", "example_sentence": "看電視", "example_translation": "Watch TV"},
+    {"hanzi": "冷氣", "pinyin": "lěngqì", "meaning": "air conditioning", "part_of_speech": "noun", "example_sentence": "開冷氣", "example_translation": "Turn on the AC"},
+    {"hanzi": "冰箱", "pinyin": "bīngxiāng", "meaning": "refrigerator", "part_of_speech": "noun", "example_sentence": "把東西放進冰箱。", "example_translation": "Put things in the fridge."},
+    {"hanzi": "床", "pinyin": "chuáng", "meaning": "bed", "part_of_speech": "noun", "example_sentence": "這張床很大。", "example_translation": "This bed is very big."},
+    {"hanzi": "桌子", "pinyin": "zhuōzi", "meaning": "table / desk", "part_of_speech": "noun", "example_sentence": "一張桌子", "example_translation": "A table"},
+    {"hanzi": "椅子", "pinyin": "yǐzi", "meaning": "chair", "part_of_speech": "noun", "example_sentence": "一把椅子", "example_translation": "A chair"},
+    {"hanzi": "環境", "pinyin": "huánjìng", "meaning": "environment / surroundings", "part_of_speech": "noun", "example_sentence": "這裡環境很好。", "example_translation": "The environment here is very good."},
+    {"hanzi": "附近", "pinyin": "fùjìn", "meaning": "nearby", "part_of_speech": "noun", "example_sentence": "我家附近有捷運站。", "example_translation": "There is an MRT station near my house."},
+    {"hanzi": "安靜", "pinyin": "ānjìng", "meaning": "quiet", "part_of_speech": "adjective", "example_sentence": "這裡很安靜。", "example_translation": "It is very quiet here."},
+    {"hanzi": "吵", "pinyin": "chǎo", "meaning": "noisy / to make a noise", "part_of_speech": "adjective", "example_sentence": "外面很吵。", "example_translation": "It is very noisy outside."}
+  ]
+}

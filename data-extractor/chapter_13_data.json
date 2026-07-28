@@ -1,0 +1,26 @@
+{
+  "chapter_number": 13,
+  "title": "I am Sick (我生病了)",
+  "description": "Vocabulary for health, illness, doctors, and hospitals.",
+  "vocabulary": [
+    {"hanzi": "生病", "pinyin": "shēngbìng", "meaning": "to get sick", "part_of_speech": "verb", "example_sentence": "他生病了，沒來上課。", "example_translation": "He got sick and didn't come to class."},
+    {"hanzi": "舒服", "pinyin": "shūfú", "meaning": "comfortable / feeling well", "part_of_speech": "adjective", "example_sentence": "我不舒服。", "example_translation": "I don't feel well."},
+    {"hanzi": "頭", "pinyin": "tóu", "meaning": "head", "part_of_speech": "noun", "example_sentence": "頭痛", "example_translation": "Headache"},
+    {"hanzi": "痛", "pinyin": "tòng", "meaning": "pain / ache", "part_of_speech": "adjective", "example_sentence": "我的腳很痛。", "example_translation": "My foot hurts a lot."},
+    {"hanzi": "感冒", "pinyin": "gǎnmào", "meaning": "to catch a cold", "part_of_speech": "verb", "example_sentence": "我感冒了，一直咳嗽。", "example_translation": "I caught a cold and keep coughing."},
+    {"hanzi": "發燒", "pinyin": "fāshāo", "meaning": "to have a fever", "part_of_speech": "verb", "example_sentence": "他發燒到39度。", "example_translation": "He has a fever of 39 degrees."},
+    {"hanzi": "咳嗽", "pinyin": "késòu", "meaning": "to cough", "part_of_speech": "verb", "example_sentence": "晚上咳嗽得很厲害。", "example_translation": "Coughing severely at night."},
+    {"hanzi": "看病", "pinyin": "kànbìng", "meaning": "to see a doctor", "part_of_speech": "verb", "example_sentence": "我要去醫院看病。", "example_translation": "I need to go to the hospital to see a doctor."},
+    {"hanzi": "醫生", "pinyin": "yīshēng", "meaning": "doctor", "part_of_speech": "noun", "example_sentence": "王醫生", "example_translation": "Dr. Wang"},
+    {"hanzi": "藥", "pinyin": "yào", "meaning": "medicine", "part_of_speech": "noun", "example_sentence": "記得吃藥。", "example_translation": "Remember to take medicine."},
+    {"hanzi": "醫院", "pinyin": "yīyuàn", "meaning": "hospital", "part_of_speech": "noun", "example_sentence": "臺大醫院", "example_translation": "NTU Hospital"},
+    {"hanzi": "休息", "pinyin": "xiūxi", "meaning": "to rest", "part_of_speech": "verb", "example_sentence": "在家休息", "example_translation": "Rest at home"},
+    {"hanzi": "水", "pinyin": "shuǐ", "meaning": "water", "part_of_speech": "noun", "example_sentence": "多喝水", "example_translation": "Drink more water"},
+    {"hanzi": "多", "pinyin": "duō", "meaning": "many / much / more (do something more)", "part_of_speech": "adverb", "example_sentence": "多休息。", "example_translation": "Rest more."},
+    {"hanzi": "少", "pinyin": "shǎo", "meaning": "few / little / less", "part_of_speech": "adverb", "example_sentence": "少喝冰水。", "example_translation": "Drink less ice water."},
+    {"hanzi": "肚子", "pinyin": "dùzi", "meaning": "belly / stomach", "part_of_speech": "noun", "example_sentence": "肚子痛", "example_translation": "Stomachache"},
+    {"hanzi": "喉嚨", "pinyin": "hóulóng", "meaning": "throat", "part_of_speech": "noun", "example_sentence": "喉嚨痛", "example_translation": "Sore throat"},
+    {"hanzi": "流鼻水", "pinyin": "liú bíshuǐ", "meaning": "to have a runny nose", "part_of_speech": "verb", "example_sentence": "我感冒流鼻水。", "example_translation": "I have a cold and a runny nose."},
+    {"hanzi": "健康", "pinyin": "jiànkāng", "meaning": "health / healthy", "part_of_speech": "noun / adjective", "example_sentence": "祝你健康。", "example_translation": "Wish you health."}
+  ]
+}

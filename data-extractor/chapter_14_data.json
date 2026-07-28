@@ -1,0 +1,26 @@
+{
+  "chapter_number": 14,
+  "title": "Let's Clean the House (我們來打掃房子吧)",
+  "description": "Vocabulary for chores, cleaning, and spatial directions.",
+  "vocabulary": [
+    {"hanzi": "打掃", "pinyin": "dǎsǎo", "meaning": "to clean up / to sweep", "part_of_speech": "verb", "example_sentence": "週末我打掃房子。", "example_translation": "I clean the house on the weekend."},
+    {"hanzi": "乾淨", "pinyin": "gānjìng", "meaning": "clean", "part_of_speech": "adjective", "example_sentence": "打掃得很乾淨。", "example_translation": "Cleaned very thoroughly."},
+    {"hanzi": "髒", "pinyin": "zāng", "meaning": "dirty", "part_of_speech": "adjective", "example_sentence": "地上很髒。", "example_translation": "The floor is very dirty."},
+    {"hanzi": "幫忙", "pinyin": "bāngmáng", "meaning": "to help", "part_of_speech": "verb", "example_sentence": "請你幫忙打掃。", "example_translation": "Please help clean."},
+    {"hanzi": "垃圾", "pinyin": "lèsè", "meaning": "garbage / trash (Taiwan pronunciation)", "part_of_speech": "noun", "example_sentence": "丟垃圾", "example_translation": "Throw away garbage"},
+    {"hanzi": "丟", "pinyin": "diū", "meaning": "to throw (away) / to lose", "part_of_speech": "verb", "example_sentence": "把垃圾丟掉。", "example_translation": "Throw the trash away."},
+    {"hanzi": "上面", "pinyin": "shàngmiàn", "meaning": "on top of / above", "part_of_speech": "noun", "example_sentence": "書在桌子上面。", "example_translation": "The book is on the table."},
+    {"hanzi": "下面", "pinyin": "xiàmiàn", "meaning": "under / below", "part_of_speech": "noun", "example_sentence": "貓在沙發下面。", "example_translation": "The cat is under the sofa."},
+    {"hanzi": "裡面", "pinyin": "lǐmiàn", "meaning": "inside", "part_of_speech": "noun", "example_sentence": "衣服在裡面。", "example_translation": "The clothes are inside."},
+    {"hanzi": "外面", "pinyin": "wàimiàn", "meaning": "outside", "part_of_speech": "noun", "example_sentence": "外面很冷。", "example_translation": "It is very cold outside."},
+    {"hanzi": "前面", "pinyin": "qiánmiàn", "meaning": "front", "part_of_speech": "noun", "example_sentence": "學校前面", "example_translation": "In front of the school"},
+    {"hanzi": "後面", "pinyin": "hòumiàn", "meaning": "back / behind", "part_of_speech": "noun", "example_sentence": "房子後面", "example_translation": "Behind the house"},
+    {"hanzi": "左邊", "pinyin": "zuǒbiān", "meaning": "left side", "part_of_speech": "noun", "example_sentence": "在你的左邊", "example_translation": "On your left"},
+    {"hanzi": "右邊", "pinyin": "yòubiān", "meaning": "right side", "part_of_speech": "noun", "example_sentence": "在你的右邊", "example_translation": "On your right"},
+    {"hanzi": "洗", "pinyin": "xǐ", "meaning": "to wash", "part_of_speech": "verb", "example_sentence": "洗手", "example_translation": "Wash hands"},
+    {"hanzi": "衣服", "pinyin": "yīfu", "meaning": "clothes", "part_of_speech": "noun", "example_sentence": "洗衣服", "example_translation": "Wash clothes"},
+    {"hanzi": "幫", "pinyin": "bāng", "meaning": "to help", "part_of_speech": "verb", "example_sentence": "我幫你。", "example_translation": "I will help you."},
+    {"hanzi": "整理", "pinyin": "zhěnglǐ", "meaning": "to arrange / to tidy up", "part_of_speech": "verb", "example_sentence": "整理房間", "example_translation": "Tidy up the room"},
+    {"hanzi": "放", "pinyin": "fàng", "meaning": "to put / to place", "part_of_speech": "verb", "example_sentence": "放在桌子上。", "example_translation": "Put it on the table."}
+  ]
+}

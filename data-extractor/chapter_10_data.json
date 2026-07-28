@@ -1,0 +1,28 @@
+{
+  "chapter_number": 10,
+  "title": "Spring Break (春假)",
+  "description": "Vocabulary for seasons, weather, and vacations.",
+  "vocabulary": [
+    {"hanzi": "春天", "pinyin": "chūntiān", "meaning": "spring", "part_of_speech": "noun", "example_sentence": "春天很暖和。", "example_translation": "Spring is very warm."},
+    {"hanzi": "夏天", "pinyin": "xiàtiān", "meaning": "summer", "part_of_speech": "noun", "example_sentence": "夏天太熱了。", "example_translation": "Summer is too hot."},
+    {"hanzi": "秋天", "pinyin": "qiūtiān", "meaning": "autumn", "part_of_speech": "noun", "example_sentence": "秋天很涼快。", "example_translation": "Autumn is cool."},
+    {"hanzi": "冬天", "pinyin": "dōngtiān", "meaning": "winter", "part_of_speech": "noun", "example_sentence": "冬天很冷。", "example_translation": "Winter is very cold."},
+    {"hanzi": "天氣", "pinyin": "tiānqì", "meaning": "weather", "part_of_speech": "noun", "example_sentence": "天氣怎麼樣？", "example_translation": "How is the weather?"},
+    {"hanzi": "冷", "pinyin": "lěng", "meaning": "cold", "part_of_speech": "adjective", "example_sentence": "很冷", "example_translation": "Very cold"},
+    {"hanzi": "熱", "pinyin": "rè", "meaning": "hot", "part_of_speech": "adjective", "example_sentence": "很熱", "example_translation": "Very hot"},
+    {"hanzi": "暖和", "pinyin": "nuǎnhuo", "meaning": "warm", "part_of_speech": "adjective", "example_sentence": "天氣很暖和。", "example_translation": "The weather is very warm."},
+    {"hanzi": "涼快", "pinyin": "liángkuài", "meaning": "cool (comfortably)", "part_of_speech": "adjective", "example_sentence": "秋天很涼快。", "example_translation": "Autumn is nice and cool."},
+    {"hanzi": "下雨", "pinyin": "xiàyǔ", "meaning": "to rain", "part_of_speech": "verb", "example_sentence": "外面在下雨。", "example_translation": "It is raining outside."},
+    {"hanzi": "下雪", "pinyin": "xiàxuě", "meaning": "to snow", "part_of_speech": "verb", "example_sentence": "臺灣很少下雪。", "example_translation": "Taiwan rarely snows."},
+    {"hanzi": "春假", "pinyin": "chūnjià", "meaning": "spring break", "part_of_speech": "noun", "example_sentence": "放春假", "example_translation": "To have spring break"},
+    {"hanzi": "放假", "pinyin": "fàngjià", "meaning": "to have a holiday / vacation", "part_of_speech": "verb", "example_sentence": "明天放假。", "example_translation": "Tomorrow is a holiday."},
+    {"hanzi": "旅行", "pinyin": "lǚxíng", "meaning": "to travel", "part_of_speech": "verb", "example_sentence": "去外國旅行", "example_translation": "Travel to a foreign country"},
+    {"hanzi": "國外", "pinyin": "guówài", "meaning": "abroad / overseas", "part_of_speech": "noun", "example_sentence": "在國外", "example_translation": "Abroad"},
+    {"hanzi": "風景", "pinyin": "fēngjǐng", "meaning": "scenery / landscape", "part_of_speech": "noun", "example_sentence": "風景很美。", "example_translation": "The scenery is beautiful."},
+    {"hanzi": "漂亮", "pinyin": "piàoliang", "meaning": "beautiful / pretty", "part_of_speech": "adjective", "example_sentence": "風景很漂亮。", "example_translation": "The scenery is very pretty."},
+    {"hanzi": "打算", "pinyin": "dǎsuàn", "meaning": "to plan to", "part_of_speech": "verb", "example_sentence": "你打算做什麼？", "example_translation": "What do you plan to do?"},
+    {"hanzi": "因為", "pinyin": "yīnwèi", "meaning": "because", "part_of_speech": "conjunction", "example_sentence": "因為下雨，所以我沒去。", "example_translation": "Because it rained, so I didn't go."},
+    {"hanzi": "所以", "pinyin": "suǒyǐ", "meaning": "so / therefore", "part_of_speech": "conjunction", "example_sentence": "他生病了，所以沒來。", "example_translation": "He is sick, so he didn't come."},
+    {"hanzi": "如果", "pinyin": "rúguǒ", "meaning": "if", "part_of_speech": "conjunction", "example_sentence": "如果下雨，我就不去。", "example_translation": "If it rains, I won't go."}
+  ]
+}

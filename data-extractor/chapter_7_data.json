@@ -1,0 +1,30 @@
+{
+  "chapter_number": 7,
+  "title": "Taking the MRT (坐捷運)",
+  "description": "Vocabulary for transportation, directions, and locations.",
+  "vocabulary": [
+    {"hanzi": "坐", "pinyin": "zuò", "meaning": "to take (transport) / to sit", "part_of_speech": "verb", "example_sentence": "坐捷運", "example_translation": "Take the MRT"},
+    {"hanzi": "捷運", "pinyin": "jiéyùn", "meaning": "MRT (Mass Rapid Transit)", "part_of_speech": "noun", "example_sentence": "臺北捷運", "example_translation": "Taipei MRT"},
+    {"hanzi": "車", "pinyin": "chē", "meaning": "car / vehicle", "part_of_speech": "noun", "example_sentence": "這輛車", "example_translation": "This car"},
+    {"hanzi": "公車", "pinyin": "gōngchē", "meaning": "bus", "part_of_speech": "noun", "example_sentence": "坐公車", "example_translation": "Take a bus"},
+    {"hanzi": "火車", "pinyin": "huǒchē", "meaning": "train", "part_of_speech": "noun", "example_sentence": "火車站", "example_translation": "Train station"},
+    {"hanzi": "車站", "pinyin": "chēzhàn", "meaning": "station", "part_of_speech": "noun", "example_sentence": "捷運站", "example_translation": "MRT station"},
+    {"hanzi": "上車", "pinyin": "shàngchē", "meaning": "to get on a vehicle", "part_of_speech": "verb", "example_sentence": "上車吧。", "example_translation": "Get on the car."},
+    {"hanzi": "下車", "pinyin": "xiàchē", "meaning": "to get off a vehicle", "part_of_speech": "verb", "example_sentence": "我在這裡下車。", "example_translation": "I get off here."},
+    {"hanzi": "怎麼", "pinyin": "zěnme", "meaning": "how", "part_of_speech": "pronoun", "example_sentence": "怎麼去？", "example_translation": "How to go?"},
+    {"hanzi": "走", "pinyin": "zǒu", "meaning": "to walk", "part_of_speech": "verb", "example_sentence": "走路上學", "example_translation": "Walk to school"},
+    {"hanzi": "路", "pinyin": "lù", "meaning": "road / street", "part_of_speech": "noun", "example_sentence": "過馬路", "example_translation": "Cross the street"},
+    {"hanzi": "遠", "pinyin": "yuǎn", "meaning": "far", "part_of_speech": "adjective", "example_sentence": "那裡很遠。", "example_translation": "It is very far there."},
+    {"hanzi": "近", "pinyin": "jìn", "meaning": "near / close", "part_of_speech": "adjective", "example_sentence": "很近", "example_translation": "Very close"},
+    {"hanzi": "這裡", "pinyin": "zhèlǐ", "meaning": "here", "part_of_speech": "pronoun", "example_sentence": "來這裡", "example_translation": "Come here"},
+    {"hanzi": "那裡", "pinyin": "nàlǐ", "meaning": "there", "part_of_speech": "pronoun", "example_sentence": "去那裡", "example_translation": "Go there"},
+    {"hanzi": "哪裡", "pinyin": "nǎlǐ", "meaning": "where", "part_of_speech": "pronoun", "example_sentence": "去哪裡？", "example_translation": "Where to go?"},
+    {"hanzi": "慢", "pinyin": "màn", "meaning": "slow", "part_of_speech": "adjective", "example_sentence": "太慢了", "example_translation": "Too slow"},
+    {"hanzi": "快", "pinyin": "kuài", "meaning": "fast / quick", "part_of_speech": "adjective", "example_sentence": "快一點", "example_translation": "Hurry up / A bit faster"},
+    {"hanzi": "交通", "pinyin": "jiāotōng", "meaning": "traffic / transportation", "part_of_speech": "noun", "example_sentence": "交通很方便。", "example_translation": "Transportation is convenient."},
+    {"hanzi": "方便", "pinyin": "fāngbiàn", "meaning": "convenient", "part_of_speech": "adjective", "example_sentence": "捷運很方便。", "example_translation": "MRT is very convenient."},
+    {"hanzi": "地圖", "pinyin": "dìtú", "meaning": "map", "part_of_speech": "noun", "example_sentence": "看地圖", "example_translation": "Look at a map"},
+    {"hanzi": "到", "pinyin": "dào", "meaning": "to arrive / to", "part_of_speech": "verb", "example_sentence": "到了沒？", "example_translation": "Arrived yet?"},
+    {"hanzi": "從", "pinyin": "cóng", "meaning": "from", "part_of_speech": "preposition", "example_sentence": "從這裡去", "example_translation": "Go from here"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "chapter_number": 3,
+  "title": "What are you doing this weekend? (週末做什麼？)",
+  "description": "Vocabulary for hobbies, weekend activities, and asking questions.",
+  "vocabulary": [
+    {"hanzi": "週末", "pinyin": "zhōumò", "meaning": "weekend", "part_of_speech": "noun", "example_sentence": "週末愉快！", "example_translation": "Have a good weekend!"},
+    {"hanzi": "聽", "pinyin": "tīng", "meaning": "to listen", "part_of_speech": "verb", "example_sentence": "聽音樂。", "example_translation": "Listen to music."},
+    {"hanzi": "音樂", "pinyin": "yīnyuè", "meaning": "music", "part_of_speech": "noun", "example_sentence": "我喜歡聽音樂。", "example_translation": "I like listening to music."},
+    {"hanzi": "運動", "pinyin": "yùndòng", "meaning": "sports / to exercise", "part_of_speech": "noun / verb", "example_sentence": "你喜歡什麼運動？", "example_translation": "What sports do you like?"},
+    {"hanzi": "打", "pinyin": "dǎ", "meaning": "to play (sports with hands)", "part_of_speech": "verb", "example_sentence": "打網球。", "example_translation": "Play tennis."},
+    {"hanzi": "網球", "pinyin": "wǎngqiú", "meaning": "tennis", "part_of_speech": "noun", "example_sentence": "我不打網球。", "example_translation": "I don't play tennis."},
+    {"hanzi": "棒球", "pinyin": "bàngqiú", "meaning": "baseball", "part_of_speech": "noun", "example_sentence": "臺灣人喜歡打棒球。", "example_translation": "Taiwanese people like playing baseball."},
+    {"hanzi": "籃球", "pinyin": "lánqiú", "meaning": "basketball", "part_of_speech": "noun", "example_sentence": "他們在打籃球。", "example_translation": "They are playing basketball."},
+    {"hanzi": "和", "pinyin": "hàn / hé", "meaning": "and", "part_of_speech": "conjunction", "example_sentence": "我和你。", "example_translation": "You and me."},
+    {"hanzi": "游泳", "pinyin": "yóuyǒng", "meaning": "to swim", "part_of_speech": "verb", "example_sentence": "我們去游泳。", "example_translation": "Let's go swimming."},
+    {"hanzi": "常", "pinyin": "cháng", "meaning": "often", "part_of_speech": "adverb", "example_sentence": "我常去那裡。", "example_translation": "I often go there."},
+    {"hanzi": "看", "pinyin": "kàn", "meaning": "to watch / to look / to read", "part_of_speech": "verb", "example_sentence": "看書。", "example_translation": "Read a book."},
+    {"hanzi": "電視", "pinyin": "diànshì", "meaning": "television", "part_of_speech": "noun", "example_sentence": "他不常看電視。", "example_translation": "He doesn't watch TV often."},
+    {"hanzi": "電影", "pinyin": "diànyǐng", "meaning": "movie", "part_of_speech": "noun", "example_sentence": "看電影。", "example_translation": "Watch a movie."},
+    {"hanzi": "去", "pinyin": "qù", "meaning": "to go", "part_of_speech": "verb", "example_sentence": "去臺灣。", "example_translation": "Go to Taiwan."},
+    {"hanzi": "做", "pinyin": "zuò", "meaning": "to do / to make", "part_of_speech": "verb", "example_sentence": "你在做什麼？", "example_translation": "What are you doing?"},
+    {"hanzi": "什麼", "pinyin": "shénme", "meaning": "what", "part_of_speech": "pronoun", "example_sentence": "這是什麼？", "example_translation": "What is this?"},
+    {"hanzi": "喜歡", "pinyin": "xǐhuān", "meaning": "to like", "part_of_speech": "verb", "example_sentence": "我喜歡你。", "example_translation": "I like you."},
+    {"hanzi": "常常", "pinyin": "chángcháng", "meaning": "often", "part_of_speech": "adverb", "example_sentence": "他常常來。", "example_translation": "He comes often."},
+    {"hanzi": "外國", "pinyin": "wàiguó", "meaning": "foreign country", "part_of_speech": "noun", "example_sentence": "外國人", "example_translation": "Foreigner"},
+    {"hanzi": "請客", "pinyin": "qǐngkè", "meaning": "to treat (someone to a meal)", "part_of_speech": "verb", "example_sentence": "今天我請客。", "example_translation": "My treat today."},
+    {"hanzi": "昨天", "pinyin": "zuótiān", "meaning": "yesterday", "part_of_speech": "time word", "example_sentence": "昨天很熱。", "example_translation": "Yesterday was very hot."},
+    {"hanzi": "所以", "pinyin": "suǒyǐ", "meaning": "so / therefore", "part_of_speech": "conjunction", "example_sentence": "所以我沒去。", "example_translation": "So I didn't go."}
+  ]
+}

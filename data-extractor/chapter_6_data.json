@@ -1,0 +1,29 @@
+{
+  "chapter_number": 6,
+  "title": "Going to KTV to Sing (他們去KTV唱歌)",
+  "description": "Vocabulary for time, schedules, days of the week, and entertainment.",
+  "vocabulary": [
+    {"hanzi": "唱歌", "pinyin": "chànggē", "meaning": "to sing a song", "part_of_speech": "verb", "example_sentence": "去唱歌", "example_translation": "Go sing"},
+    {"hanzi": "歌", "pinyin": "gē", "meaning": "song", "part_of_speech": "noun", "example_sentence": "聽歌", "example_translation": "Listen to songs"},
+    {"hanzi": "朋友", "pinyin": "péngyou", "meaning": "friend", "part_of_speech": "noun", "example_sentence": "好朋友", "example_translation": "Good friend"},
+    {"hanzi": "明天", "pinyin": "míngtiān", "meaning": "tomorrow", "part_of_speech": "time word", "example_sentence": "明天見。", "example_translation": "See you tomorrow."},
+    {"hanzi": "今天", "pinyin": "jīntiān", "meaning": "today", "part_of_speech": "time word", "example_sentence": "今天是星期一。", "example_translation": "Today is Monday."},
+    {"hanzi": "昨天", "pinyin": "zuótiān", "meaning": "yesterday", "part_of_speech": "time word", "example_sentence": "昨天很熱。", "example_translation": "Yesterday was hot."},
+    {"hanzi": "早上", "pinyin": "zǎoshang", "meaning": "morning", "part_of_speech": "time word", "example_sentence": "早安！", "example_translation": "Good morning!"},
+    {"hanzi": "中午", "pinyin": "zhōngwǔ", "meaning": "noon", "part_of_speech": "time word", "example_sentence": "中午吃飯", "example_translation": "Eat lunch at noon"},
+    {"hanzi": "下午", "pinyin": "xiàwǔ", "meaning": "afternoon", "part_of_speech": "time word", "example_sentence": "下午三點", "example_translation": "Three o'clock in the afternoon"},
+    {"hanzi": "晚上", "pinyin": "wǎnshang", "meaning": "evening / night", "part_of_speech": "time word", "example_sentence": "晚上見。", "example_translation": "See you tonight."},
+    {"hanzi": "點", "pinyin": "diǎn", "meaning": "o'clock", "part_of_speech": "measure word", "example_sentence": "幾點？", "example_translation": "What time?"},
+    {"hanzi": "半", "pinyin": "bàn", "meaning": "half", "part_of_speech": "number", "example_sentence": "兩點半", "example_translation": "Half past two"},
+    {"hanzi": "分", "pinyin": "fēn", "meaning": "minute", "part_of_speech": "measure word", "example_sentence": "十分鐘", "example_translation": "Ten minutes"},
+    {"hanzi": "星期", "pinyin": "xīngqī", "meaning": "week", "part_of_speech": "noun", "example_sentence": "這個星期", "example_translation": "This week"},
+    {"hanzi": "星期一", "pinyin": "xīngqīyī", "meaning": "Monday", "part_of_speech": "time word", "example_sentence": "星期一我有空。", "example_translation": "I have free time on Monday."},
+    {"hanzi": "週末", "pinyin": "zhōumò", "meaning": "weekend", "part_of_speech": "time word", "example_sentence": "週末快樂！", "example_translation": "Happy weekend!"},
+    {"hanzi": "時間", "pinyin": "shíjiān", "meaning": "time", "part_of_speech": "noun", "example_sentence": "沒有時間", "example_translation": "No time"},
+    {"hanzi": "有空", "pinyin": "yǒukòng", "meaning": "to have free time", "part_of_speech": "verb", "example_sentence": "你有空嗎？", "example_translation": "Are you free?"},
+    {"hanzi": "沒空", "pinyin": "méikòng", "meaning": "to not have free time", "part_of_speech": "verb", "example_sentence": "我沒空。", "example_translation": "I am not free."},
+    {"hanzi": "生日", "pinyin": "shēngrì", "meaning": "birthday", "part_of_speech": "noun", "example_sentence": "生日快樂！", "example_translation": "Happy birthday!"},
+    {"hanzi": "現在", "pinyin": "xiànzài", "meaning": "now", "part_of_speech": "time word", "example_sentence": "現在幾點？", "example_translation": "What time is it now?"},
+    {"hanzi": "晚", "pinyin": "wǎn", "meaning": "late", "part_of_speech": "adjective", "example_sentence": "太晚了。", "example_translation": "Too late."}
+  ]
+}

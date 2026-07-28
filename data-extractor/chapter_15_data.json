@@ -1,0 +1,24 @@
+{
+  "chapter_number": 15,
+  "title": "Chinese New Year is Coming (快要過年了)",
+  "description": "Vocabulary for holidays, celebrations, and school semesters.",
+  "vocabulary": [
+    {"hanzi": "過年", "pinyin": "guònián", "meaning": "to celebrate the Chinese New Year", "part_of_speech": "verb", "example_sentence": "我們快要過年了。", "example_translation": "We are about to celebrate the New Year."},
+    {"hanzi": "新年", "pinyin": "xīnnián", "meaning": "New Year", "part_of_speech": "noun", "example_sentence": "新年快樂！", "example_translation": "Happy New Year!"},
+    {"hanzi": "快樂", "pinyin": "kuàilè", "meaning": "happy", "part_of_speech": "adjective", "example_sentence": "生日快樂！", "example_translation": "Happy birthday!"},
+    {"hanzi": "快要...了", "pinyin": "kuàiyào...le", "meaning": "about to / going to", "part_of_speech": "grammar pattern", "example_sentence": "快要下雨了。", "example_translation": "It is about to rain."},
+    {"hanzi": "紅包", "pinyin": "hóngbāo", "meaning": "red envelope (containing money)", "part_of_speech": "noun", "example_sentence": "長輩給小孩紅包。", "example_translation": "Elders give red envelopes to children."},
+    {"hanzi": "恭喜", "pinyin": "gōngxǐ", "meaning": "congratulations", "part_of_speech": "verb", "example_sentence": "恭喜發財！", "example_translation": "Congratulations and wish you wealth!"},
+    {"hanzi": "春節", "pinyin": "chūnjié", "meaning": "Spring Festival / Chinese New Year", "part_of_speech": "noun", "example_sentence": "春節是臺灣最重要的節日。", "example_translation": "Spring Festival is the most important holiday in Taiwan."},
+    {"hanzi": "節日", "pinyin": "jiérì", "meaning": "holiday / festival", "part_of_speech": "noun", "example_sentence": "新年是一個大節日。", "example_translation": "New Year is a big holiday."},
+    {"hanzi": "慶祝", "pinyin": "qìngzhù", "meaning": "to celebrate", "part_of_speech": "verb", "example_sentence": "怎麼慶祝？", "example_translation": "How to celebrate?"},
+    {"hanzi": "結束", "pinyin": "jiéshù", "meaning": "to end / to finish", "part_of_speech": "verb", "example_sentence": "考試結束了。", "example_translation": "The exam is over."},
+    {"hanzi": "學期", "pinyin": "xuéqī", "meaning": "school term / semester", "part_of_speech": "noun", "example_sentence": "下個學期", "example_translation": "Next semester"},
+    {"hanzi": "考試", "pinyin": "kǎoshì", "meaning": "exam / to take an exam", "part_of_speech": "noun / verb", "example_sentence": "期末考試", "example_translation": "Final exam"},
+    {"hanzi": "準備", "pinyin": "zhǔnbèi", "meaning": "to prepare", "part_of_speech": "verb", "example_sentence": "準備考試", "example_translation": "Prepare for the exam"},
+    {"hanzi": "忘記", "pinyin": "wàngjì", "meaning": "to forget", "part_of_speech": "verb", "example_sentence": "我忘記帶錢了。", "example_translation": "I forgot to bring money."},
+    {"hanzi": "記得", "pinyin": "jìde", "meaning": "to remember", "part_of_speech": "verb", "example_sentence": "你記得我嗎？", "example_translation": "Do you remember me?"},
+    {"hanzi": "開始", "pinyin": "kāishǐ", "meaning": "to start / to begin", "part_of_speech": "verb", "example_sentence": "上課開始了。", "example_translation": "Class has started."},
+    {"hanzi": "成績", "pinyin": "chéngjī", "meaning": "grades / score", "part_of_speech": "noun", "example_sentence": "你的成績很好。", "example_translation": "Your grades are very good."}
+  ]
+}

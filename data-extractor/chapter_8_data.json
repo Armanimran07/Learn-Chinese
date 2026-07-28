@@ -1,0 +1,27 @@
+{
+  "chapter_number": 8,
+  "title": "Did you go to the night market? (你去夜市了嗎)",
+  "description": "Vocabulary for past experiences, night markets, and fun activities.",
+  "vocabulary": [
+    {"hanzi": "夜市", "pinyin": "yèshì", "meaning": "night market", "part_of_speech": "noun", "example_sentence": "逛夜市", "example_translation": "Stroll the night market"},
+    {"hanzi": "了", "pinyin": "le", "meaning": "particle indicating completed action or change of state", "part_of_speech": "particle", "example_sentence": "他走了。", "example_translation": "He left."},
+    {"hanzi": "小吃", "pinyin": "xiǎochī", "meaning": "snack / street food", "part_of_speech": "noun", "example_sentence": "臺灣小吃", "example_translation": "Taiwanese street food"},
+    {"hanzi": "熱鬧", "pinyin": "rènào", "meaning": "bustling / lively", "part_of_speech": "adjective", "example_sentence": "夜市很熱鬧。", "example_translation": "The night market is very lively."},
+    {"hanzi": "去過", "pinyin": "qù guò", "meaning": "have been to", "part_of_speech": "verb", "example_sentence": "我去過。", "example_translation": "I have been there."},
+    {"hanzi": "沒去過", "pinyin": "méi qù guò", "meaning": "have not been to", "part_of_speech": "verb", "example_sentence": "我沒去過。", "example_translation": "I have never been there."},
+    {"hanzi": "好玩", "pinyin": "hǎowán", "meaning": "fun / interesting", "part_of_speech": "adjective", "example_sentence": "很好玩。", "example_translation": "Very fun."},
+    {"hanzi": "玩", "pinyin": "wán", "meaning": "to play / to have fun", "part_of_speech": "verb", "example_sentence": "去哪裡玩？", "example_translation": "Where to go have fun?"},
+    {"hanzi": "逛", "pinyin": "guàng", "meaning": "to stroll / to wander", "part_of_speech": "verb", "example_sentence": "逛街", "example_translation": "Window shopping"},
+    {"hanzi": "衣服", "pinyin": "yīfu", "meaning": "clothes", "part_of_speech": "noun", "example_sentence": "買衣服", "example_translation": "Buy clothes"},
+    {"hanzi": "件", "pinyin": "jiàn", "meaning": "measure word for clothing", "part_of_speech": "measure word", "example_sentence": "一件衣服", "example_translation": "A piece of clothing"},
+    {"hanzi": "想", "pinyin": "xiǎng", "meaning": "to want to / to think", "part_of_speech": "verb", "example_sentence": "我想去。", "example_translation": "I want to go."},
+    {"hanzi": "時候", "pinyin": "shíhou", "meaning": "time / moment", "part_of_speech": "noun", "example_sentence": "什麼時候？", "example_translation": "When? (What time?)"},
+    {"hanzi": "以前", "pinyin": "yǐqián", "meaning": "before / formerly", "part_of_speech": "time word", "example_sentence": "以前我去過。", "example_translation": "I have been there before."},
+    {"hanzi": "以後", "pinyin": "yǐhòu", "meaning": "after / later", "part_of_speech": "time word", "example_sentence": "吃飯以後", "example_translation": "After eating"},
+    {"hanzi": "找", "pinyin": "zhǎo", "meaning": "to look for", "part_of_speech": "verb", "example_sentence": "找朋友", "example_translation": "Look for a friend"},
+    {"hanzi": "買", "pinyin": "mǎi", "meaning": "to buy", "part_of_speech": "verb", "example_sentence": "買東西", "example_translation": "Buy things"},
+    {"hanzi": "太", "pinyin": "tài", "meaning": "too / excessively", "part_of_speech": "adverb", "example_sentence": "太好了！", "example_translation": "That's great! (Too good)"},
+    {"hanzi": "已經", "pinyin": "yǐjīng", "meaning": "already", "part_of_speech": "adverb", "example_sentence": "他已經去了。", "example_translation": "He already went."},
+    {"hanzi": "覺得", "pinyin": "juéde", "meaning": "to feel / to think (opinion)", "part_of_speech": "verb", "example_sentence": "我覺得很好。", "example_translation": "I feel it's very good."}
+  ]
+}

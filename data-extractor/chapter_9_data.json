@@ -1,0 +1,29 @@
+{
+  "chapter_number": 9,
+  "title": "Buying a New Phone (買新手機)",
+  "description": "Vocabulary for comparing items, colors, and technology.",
+  "vocabulary": [
+    {"hanzi": "新", "pinyin": "xīn", "meaning": "new", "part_of_speech": "adjective", "example_sentence": "新手機", "example_translation": "New cell phone"},
+    {"hanzi": "手機", "pinyin": "shǒujī", "meaning": "cell phone", "part_of_speech": "noun", "example_sentence": "我的手機", "example_translation": "My cell phone"},
+    {"hanzi": "舊", "pinyin": "jiù", "meaning": "old (used, of objects)", "part_of_speech": "adjective", "example_sentence": "舊衣服", "example_translation": "Old clothes"},
+    {"hanzi": "比較", "pinyin": "bǐjiào", "meaning": "relatively / to compare", "part_of_speech": "adverb / verb", "example_sentence": "這個比較好。", "example_translation": "This is relatively better."},
+    {"hanzi": "最", "pinyin": "zuì", "meaning": "most", "part_of_speech": "adverb", "example_sentence": "最好", "example_translation": "Best"},
+    {"hanzi": "顏色", "pinyin": "yánsè", "meaning": "color", "part_of_speech": "noun", "example_sentence": "什麼顏色", "example_translation": "What color"},
+    {"hanzi": "黑", "pinyin": "hēi", "meaning": "black", "part_of_speech": "adjective", "example_sentence": "黑色", "example_translation": "Black color"},
+    {"hanzi": "白", "pinyin": "bái", "meaning": "white", "part_of_speech": "adjective", "example_sentence": "白色", "example_translation": "White color"},
+    {"hanzi": "紅", "pinyin": "hóng", "meaning": "red", "part_of_speech": "adjective", "example_sentence": "紅色", "example_translation": "Red color"},
+    {"hanzi": "黃", "pinyin": "huáng", "meaning": "yellow", "part_of_speech": "adjective", "example_sentence": "黃色", "example_translation": "Yellow color"},
+    {"hanzi": "藍", "pinyin": "lán", "meaning": "blue", "part_of_speech": "adjective", "example_sentence": "藍色", "example_translation": "Blue color"},
+    {"hanzi": "綠", "pinyin": "lǜ", "meaning": "green", "part_of_speech": "adjective", "example_sentence": "綠色", "example_translation": "Green color"},
+    {"hanzi": "好看", "pinyin": "hǎokàn", "meaning": "good-looking / attractive", "part_of_speech": "adjective", "example_sentence": "這支手機很好看。", "example_translation": "This phone looks good."},
+    {"hanzi": "用", "pinyin": "yòng", "meaning": "to use", "part_of_speech": "verb", "example_sentence": "很好用", "example_translation": "Easy to use / very useful"},
+    {"hanzi": "照相機", "pinyin": "zhàoxiàngjī", "meaning": "camera", "part_of_speech": "noun", "example_sentence": "照相機很貴。", "example_translation": "The camera is very expensive."},
+    {"hanzi": "店", "pinyin": "diàn", "meaning": "store / shop", "part_of_speech": "noun", "example_sentence": "手機店", "example_translation": "Phone store"},
+    {"hanzi": "支", "pinyin": "zhī", "meaning": "measure word for stick-like objects (phones, pens)", "part_of_speech": "measure word", "example_sentence": "一支手機", "example_translation": "One cell phone"},
+    {"hanzi": "可是", "pinyin": "kěshì", "meaning": "but / however", "part_of_speech": "conjunction", "example_sentence": "很好，可是太貴。", "example_translation": "Very good, but too expensive."},
+    {"hanzi": "便宜", "pinyin": "piányi", "meaning": "cheap", "part_of_speech": "adjective", "example_sentence": "比較便宜", "example_translation": "Relatively cheaper"},
+    {"hanzi": "只", "pinyin": "zhǐ", "meaning": "only", "part_of_speech": "adverb", "example_sentence": "我只有一百塊。", "example_translation": "I only have one hundred bucks."},
+    {"hanzi": "上網", "pinyin": "shàngwǎng", "meaning": "to surf the internet", "part_of_speech": "verb", "example_sentence": "用手機上網", "example_translation": "Use the phone to surf the internet"},
+    {"hanzi": "電腦", "pinyin": "diànnǎo", "meaning": "computer", "part_of_speech": "noun", "example_sentence": "我的電腦", "example_translation": "My computer"}
+  ]
+}

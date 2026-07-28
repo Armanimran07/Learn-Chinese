@@ -1,0 +1,30 @@
+{
+  "chapter_number": 4,
+  "title": "How much is this? (請問一共多少錢？)",
+  "description": "Vocabulary for shopping, money, and asking prices.",
+  "vocabulary": [
+    {"hanzi": "買", "pinyin": "mǎi", "meaning": "to buy", "part_of_speech": "verb", "example_sentence": "我想買東西。", "example_translation": "I want to buy things."},
+    {"hanzi": "東西", "pinyin": "dōngxi", "meaning": "things / stuff", "part_of_speech": "noun", "example_sentence": "買東西", "example_translation": "Buy things (go shopping)"},
+    {"hanzi": "賣", "pinyin": "mài", "meaning": "to sell", "part_of_speech": "verb", "example_sentence": "賣水果。", "example_translation": "Sell fruit."},
+    {"hanzi": "多少", "pinyin": "duōshǎo", "meaning": "how much / how many", "part_of_speech": "pronoun", "example_sentence": "多少錢？", "example_translation": "How much money?"},
+    {"hanzi": "錢", "pinyin": "qián", "meaning": "money", "part_of_speech": "noun", "example_sentence": "我沒有錢。", "example_translation": "I don't have money."},
+    {"hanzi": "塊", "pinyin": "kuài", "meaning": "measure word for money (bucks)", "part_of_speech": "measure word", "example_sentence": "五十塊。", "example_translation": "Fifty bucks."},
+    {"hanzi": "一共", "pinyin": "yígòng", "meaning": "altogether / in total", "part_of_speech": "adverb", "example_sentence": "一共多少錢？", "example_translation": "How much in total?"},
+    {"hanzi": "百", "pinyin": "bǎi", "meaning": "hundred", "part_of_speech": "number", "example_sentence": "一百塊。", "example_translation": "One hundred bucks."},
+    {"hanzi": "千", "pinyin": "qiān", "meaning": "thousand", "part_of_speech": "number", "example_sentence": "三千。", "example_translation": "Three thousand."},
+    {"hanzi": "萬", "pinyin": "wàn", "meaning": "ten thousand", "part_of_speech": "number", "example_sentence": "一萬塊。", "example_translation": "Ten thousand bucks."},
+    {"hanzi": "貴", "pinyin": "guì", "meaning": "expensive", "part_of_speech": "adjective", "example_sentence": "太貴了！", "example_translation": "Too expensive!"},
+    {"hanzi": "便宜", "pinyin": "piányi", "meaning": "cheap", "part_of_speech": "adjective", "example_sentence": "這個很便宜。", "example_translation": "This is very cheap."},
+    {"hanzi": "杯", "pinyin": "bēi", "meaning": "cup / glass (measure word)", "part_of_speech": "measure word", "example_sentence": "一杯茶。", "example_translation": "A cup of tea."},
+    {"hanzi": "咖啡", "pinyin": "kāfēi", "meaning": "coffee", "part_of_speech": "noun", "example_sentence": "喝咖啡。", "example_translation": "Drink coffee."},
+    {"hanzi": "茶", "pinyin": "chá", "meaning": "tea", "part_of_speech": "noun", "example_sentence": "臺灣茶", "example_translation": "Taiwanese tea"},
+    {"hanzi": "果汁", "pinyin": "guǒzhī", "meaning": "juice", "part_of_speech": "noun", "example_sentence": "一杯果汁。", "example_translation": "A glass of juice."},
+    {"hanzi": "找", "pinyin": "zhǎo", "meaning": "to give change / to look for", "part_of_speech": "verb", "example_sentence": "找您十塊。", "example_translation": "Here is ten bucks change."},
+    {"hanzi": "老闆", "pinyin": "lǎobǎn", "meaning": "boss / store owner", "part_of_speech": "noun", "example_sentence": "老闆，多少錢？", "example_translation": "Boss, how much is this?"},
+    {"hanzi": "要", "pinyin": "yào", "meaning": "to want / to need", "part_of_speech": "verb", "example_sentence": "我要這個。", "example_translation": "I want this."},
+    {"hanzi": "半", "pinyin": "bàn", "meaning": "half", "part_of_speech": "number", "example_sentence": "半杯水。", "example_translation": "Half a cup of water."},
+    {"hanzi": "大", "pinyin": "dà", "meaning": "big", "part_of_speech": "adjective", "example_sentence": "大杯", "example_translation": "Large cup"},
+    {"hanzi": "中", "pinyin": "zhōng", "meaning": "medium", "part_of_speech": "adjective", "example_sentence": "中杯", "example_translation": "Medium cup"},
+    {"hanzi": "小", "pinyin": "xiǎo", "meaning": "small", "part_of_speech": "adjective", "example_sentence": "小杯", "example_translation": "Small cup"}
+  ]
+}

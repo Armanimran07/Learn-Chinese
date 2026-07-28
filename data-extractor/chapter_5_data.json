@@ -1,0 +1,29 @@
+{
+  "chapter_number": 5,
+  "title": "Beef Noodles are Delicious (牛肉麵真好吃)",
+  "description": "Vocabulary for food, ordering in a restaurant, and taste.",
+  "vocabulary": [
+    {"hanzi": "牛肉", "pinyin": "niúròu", "meaning": "beef", "part_of_speech": "noun", "example_sentence": "牛肉很好吃。", "example_translation": "Beef is very delicious."},
+    {"hanzi": "麵", "pinyin": "miàn", "meaning": "noodles", "part_of_speech": "noun", "example_sentence": "吃麵", "example_translation": "Eat noodles"},
+    {"hanzi": "真", "pinyin": "zhēn", "meaning": "really / truly", "part_of_speech": "adverb", "example_sentence": "真好吃！", "example_translation": "Really delicious!"},
+    {"hanzi": "好吃", "pinyin": "hǎochī", "meaning": "delicious (for food)", "part_of_speech": "adjective", "example_sentence": "這個很好吃。", "example_translation": "This is very delicious."},
+    {"hanzi": "好喝", "pinyin": "hǎohē", "meaning": "delicious (for drinks)", "part_of_speech": "adjective", "example_sentence": "這茶很好喝。", "example_translation": "This tea is very delicious."},
+    {"hanzi": "餐廳", "pinyin": "cāntīng", "meaning": "restaurant", "part_of_speech": "noun", "example_sentence": "去餐廳", "example_translation": "Go to a restaurant"},
+    {"hanzi": "點菜", "pinyin": "diǎncài", "meaning": "to order food", "part_of_speech": "verb", "example_sentence": "我們點菜吧。", "example_translation": "Let's order food."},
+    {"hanzi": "菜", "pinyin": "cài", "meaning": "dish / vegetable", "part_of_speech": "noun", "example_sentence": "臺灣菜", "example_translation": "Taiwanese dish/food"},
+    {"hanzi": "碗", "pinyin": "wǎn", "meaning": "bowl (measure word)", "part_of_speech": "measure word", "example_sentence": "一碗麵", "example_translation": "A bowl of noodles"},
+    {"hanzi": "湯", "pinyin": "tāng", "meaning": "soup", "part_of_speech": "noun", "example_sentence": "喝湯", "example_translation": "Drink soup"},
+    {"hanzi": "豬肉", "pinyin": "zhūròu", "meaning": "pork", "part_of_speech": "noun", "example_sentence": "豬肉麵", "example_translation": "Pork noodles"},
+    {"hanzi": "雞肉", "pinyin": "jīròu", "meaning": "chicken meat", "part_of_speech": "noun", "example_sentence": "吃雞肉", "example_translation": "Eat chicken"},
+    {"hanzi": "魚", "pinyin": "yú", "meaning": "fish", "part_of_speech": "noun", "example_sentence": "我喜歡吃魚。", "example_translation": "I like to eat fish."},
+    {"hanzi": "筷子", "pinyin": "kuàizi", "meaning": "chopsticks", "part_of_speech": "noun", "example_sentence": "用筷子", "example_translation": "Use chopsticks"},
+    {"hanzi": "辣", "pinyin": "là", "meaning": "spicy", "part_of_speech": "adjective", "example_sentence": "很辣", "example_translation": "Very spicy"},
+    {"hanzi": "甜", "pinyin": "tián", "meaning": "sweet", "part_of_speech": "adjective", "example_sentence": "太甜了", "example_translation": "Too sweet"},
+    {"hanzi": "酸", "pinyin": "suān", "meaning": "sour", "part_of_speech": "adjective", "example_sentence": "酸湯", "example_translation": "Sour soup"},
+    {"hanzi": "包子", "pinyin": "bāozi", "meaning": "steamed stuffed bun", "part_of_speech": "noun", "example_sentence": "肉包子", "example_translation": "Meat bun"},
+    {"hanzi": "餃子", "pinyin": "jiǎozi", "meaning": "dumplings", "part_of_speech": "noun", "example_sentence": "吃水餃", "example_translation": "Eat boiled dumplings"},
+    {"hanzi": "最", "pinyin": "zuì", "meaning": "most", "part_of_speech": "adverb", "example_sentence": "最好吃", "example_translation": "Most delicious"},
+    {"hanzi": "餓", "pinyin": "è", "meaning": "hungry", "part_of_speech": "adjective", "example_sentence": "我很餓。", "example_translation": "I am very hungry."},
+    {"hanzi": "渴", "pinyin": "kě", "meaning": "thirsty", "part_of_speech": "adjective", "example_sentence": "我很渴。", "example_translation": "I am very thirsty."}
+  ]
+}

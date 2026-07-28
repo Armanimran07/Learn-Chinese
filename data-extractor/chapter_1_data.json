@@ -1,0 +1,199 @@
+{
+  "chapter_number": 1,
+  "title": "Welcome to Taiwan! (歡迎你來臺灣)",
+  "description": "Introductory greetings, personal names, and basic sentence structures.",
+  "vocabulary": [
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning": "you",
+      "part_of_speech": "pronoun",
+      "example_sentence": "你好！",
+      "example_translation": "Hello!"
+    },
+    {
+      "hanzi": "來",
+      "pinyin": "lái",
+      "meaning": "to come",
+      "part_of_speech": "verb",
+      "example_sentence": "歡迎你來臺灣。",
+      "example_translation": "Welcome to Taiwan."
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning": "to be (am/is/are)",
+      "part_of_speech": "verb",
+      "example_sentence": "我是學生。",
+      "example_translation": "I am a student."
+    },
+    {
+      "hanzi": "小姐",
+      "pinyin": "xiǎo jiě",
+      "meaning": "Miss",
+      "part_of_speech": "noun",
+      "example_sentence": "陳小姐，你好。",
+      "example_translation": "Hello, Miss Chen."
+    },
+    {
+      "hanzi": "嗎",
+      "pinyin": "ma",
+      "meaning": "question particle",
+      "part_of_speech": "particle",
+      "example_sentence": "你好嗎？",
+      "example_translation": "How are you?"
+    },
+    {
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "meaning": "to pick up (someone)",
+      "part_of_speech": "verb",
+      "example_sentence": "我來接你。",
+      "example_translation": "I come to pick you up."
+    },
+    {
+      "hanzi": "我們",
+      "pinyin": "wǒ men",
+      "meaning": "we/us",
+      "part_of_speech": "pronoun",
+      "example_sentence": "我們是學生。",
+      "example_translation": "We are students."
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning": "I/me",
+      "part_of_speech": "pronoun",
+      "example_sentence": "我姓李。",
+      "example_translation": "My surname is Li."
+    },
+    {
+      "hanzi": "這",
+      "pinyin": "zhè / zhèi",
+      "meaning": "this",
+      "part_of_speech": "pronoun",
+      "example_sentence": "這是王先生。",
+      "example_translation": "This is Mr. Wang."
+    },
+    {
+      "hanzi": "先生",
+      "pinyin": "xiān shēng",
+      "meaning": "Mr.",
+      "part_of_speech": "noun",
+      "example_sentence": "王先生，你好。",
+      "example_translation": "Hello, Mr. Wang."
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning": "good/well",
+      "part_of_speech": "adjective",
+      "example_sentence": "很好。",
+      "example_translation": "Very good."
+    },
+    {
+      "hanzi": "姓",
+      "pinyin": "xìng",
+      "meaning": "to be surnamed",
+      "part_of_speech": "verb / noun",
+      "example_sentence": "請問您貴姓？",
+      "example_translation": "May I ask your surname?"
+    },
+    {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "meaning": "to be called",
+      "part_of_speech": "verb",
+      "example_sentence": "我叫李明華。",
+      "example_translation": "I am called Li Ming-hua."
+    },
+    {
+      "hanzi": "你們",
+      "pinyin": "nǐ men",
+      "meaning": "you (plural)",
+      "part_of_speech": "pronoun",
+      "example_sentence": "你們好。",
+      "example_translation": "Hello (to multiple people)."
+    },
+    {
+      "hanzi": "臺灣",
+      "pinyin": "Tái wān",
+      "meaning": "Taiwan",
+      "part_of_speech": "noun",
+      "example_sentence": "歡迎來臺灣。",
+      "example_translation": "Welcome to Taiwan."
+    },
+    {
+      "hanzi": "歡迎",
+      "pinyin": "huān yíng",
+      "meaning": "to welcome",
+      "part_of_speech": "verb",
+      "example_sentence": "歡迎！歡迎！",
+      "example_translation": "Welcome! Welcome!"
+    },
+    {
+      "hanzi": "請問",
+      "pinyin": "qǐng wèn",
+      "meaning": "may I ask",
+      "part_of_speech": "phrase",
+      "example_sentence": "請問您是？",
+      "example_translation": "May I ask who you are?"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "meaning": "possessive particle",
+      "part_of_speech": "particle",
+      "example_sentence": "我的老師。",
+      "example_translation": "My teacher."
+    },
+    {
+      "hanzi": "謝謝",
+      "pinyin": "xiè xie",
+      "meaning": "thank you",
+      "part_of_speech": "phrase",
+      "example_sentence": "謝謝你。",
+      "example_translation": "Thank you."
+    },
+    {
+      "hanzi": "不客氣",
+      "pinyin": "bú kè qì",
+      "meaning": "you're welcome",
+      "part_of_speech": "phrase",
+      "example_sentence": "不客氣。",
+      "example_translation": "You're welcome."
+    },
+    {
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning": "hello",
+      "part_of_speech": "phrase",
+      "example_sentence": "你好！",
+      "example_translation": "Hello!"
+    },
+    {
+      "hanzi": "陳月美",
+      "pinyin": "Chén Yuè-měi",
+      "meaning": "Chen Yue-mei (Name)",
+      "part_of_speech": "proper noun",
+      "example_sentence": "我是陳月美。",
+      "example_translation": "I am Chen Yue-mei."
+    },
+    {
+      "hanzi": "李明華",
+      "pinyin": "Lǐ Míng-huá",
+      "meaning": "Li Ming-hua (Name)",
+      "part_of_speech": "proper noun",
+      "example_sentence": "他是李明華。",
+      "example_translation": "He is Li Ming-hua."
+    },
+    {
+      "hanzi": "王開文",
+      "pinyin": "Wáng Kāi-wén",
+      "meaning": "Wang Kai-wen (Name)",
+      "part_of_speech": "proper noun",
+      "example_sentence": "他是王開文。",
+      "example_translation": "He is Wang Kai-wen."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter_number": 11,
+  "title": "We are going to Taichung (我們去臺中)",
+  "description": "Vocabulary for transportation, tickets, and traveling.",
+  "vocabulary": [
+    {"hanzi": "臺中", "pinyin": "Táizhōng", "meaning": "Taichung (city in Taiwan)", "part_of_speech": "noun", "example_sentence": "明天去臺中。", "example_translation": "Go to Taichung tomorrow."},
+    {"hanzi": "高鐵", "pinyin": "gāotiě", "meaning": "High Speed Rail (HSR)", "part_of_speech": "noun", "example_sentence": "坐高鐵很快。", "example_translation": "Taking the HSR is very fast."},
+    {"hanzi": "火車", "pinyin": "huǒchē", "meaning": "train", "part_of_speech": "noun", "example_sentence": "坐火車", "example_translation": "Take a train"},
+    {"hanzi": "票", "pinyin": "piào", "meaning": "ticket", "part_of_speech": "noun", "example_sentence": "買車票。", "example_translation": "Buy a bus/train ticket."},
+    {"hanzi": "張", "pinyin": "zhāng", "meaning": "measure word for tickets/paper", "part_of_speech": "measure word", "example_sentence": "兩張票。", "example_translation": "Two tickets."},
+    {"hanzi": "飛機", "pinyin": "fēijī", "meaning": "airplane", "part_of_speech": "noun", "example_sentence": "坐飛機去日本。", "example_translation": "Take an airplane to Japan."},
+    {"hanzi": "船", "pinyin": "chuán", "meaning": "boat / ship", "part_of_speech": "noun", "example_sentence": "坐船", "example_translation": "Take a boat"},
+    {"hanzi": "租", "pinyin": "zū", "meaning": "to rent", "part_of_speech": "verb", "example_sentence": "租一輛車", "example_translation": "Rent a car"},
+    {"hanzi": "車", "pinyin": "chē", "meaning": "car / vehicle", "part_of_speech": "noun", "example_sentence": "這輛車", "example_translation": "This car"},
+    {"hanzi": "輛", "pinyin": "liàng", "meaning": "measure word for vehicles", "part_of_speech": "measure word", "example_sentence": "一輛汽車", "example_translation": "One car"},
+    {"hanzi": "開車", "pinyin": "kāichē", "meaning": "to drive a car", "part_of_speech": "verb", "example_sentence": "他會開車。", "example_translation": "He knows how to drive."},
+    {"hanzi": "騎", "pinyin": "qí", "meaning": "to ride (a bicycle/motorcycle/horse)", "part_of_speech": "verb", "example_sentence": "騎腳踏車", "example_translation": "Ride a bicycle"},
+    {"hanzi": "機車", "pinyin": "jīchē", "meaning": "motorcycle / scooter", "part_of_speech": "noun", "example_sentence": "騎機車去。", "example_translation": "Go by riding a scooter."},
+    {"hanzi": "腳踏車", "pinyin": "jiǎotàchē", "meaning": "bicycle", "part_of_speech": "noun", "example_sentence": "騎腳踏車運動。", "example_translation": "Ride a bike to exercise."},
+    {"hanzi": "風", "pinyin": "fēng", "meaning": "wind", "part_of_speech": "noun", "example_sentence": "風很大。", "example_translation": "The wind is very strong."},
+    {"hanzi": "風景", "pinyin": "fēngjǐng", "meaning": "scenery / landscape", "part_of_speech": "noun", "example_sentence": "這裡風景很美。", "example_translation": "The scenery here is very beautiful."},
+    {"hanzi": "照相", "pinyin": "zhàoxiàng", "meaning": "to take a picture", "part_of_speech": "verb", "example_sentence": "幫我照相。", "example_translation": "Help me take a picture."},
+    {"hanzi": "出發", "pinyin": "chūfā", "meaning": "to set out / to start a journey", "part_of_speech": "verb", "example_sentence": "我們幾點出發？", "example_translation": "What time do we set out?"},
+    {"hanzi": "計畫", "pinyin": "jìhuà", "meaning": "plan / to plan", "part_of_speech": "noun / verb", "example_sentence": "這是一個好計畫。", "example_translation": "This is a good plan."},
+    {"hanzi": "好玩", "pinyin": "hǎowán", "meaning": "fun / interesting", "part_of_speech": "adjective", "example_sentence": "臺中很好玩。", "example_translation": "Taichung is very fun."}
+  ]
+}
