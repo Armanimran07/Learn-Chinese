@@ -107,7 +107,7 @@ export default function ChaptersPage() {
                     "border-muted text-muted-foreground"
                   )}
                 >
-                  <span className="font-bold text-xl">{chapter.number}</span>
+                  <span className="font-bold text-xl">{chapter.chapter_number}</span>
                 </div>
               </div>
 
@@ -121,7 +121,7 @@ export default function ChaptersPage() {
                 <div className="flex flex-col sm:flex-row gap-6 justify-between items-start sm:items-center">
                   <div className="space-y-2">
                     <div className="flex items-center gap-2">
-                      <span className="md:hidden font-bold text-primary">Ch. {chapter.number}</span>
+                      <span className="md:hidden font-bold text-primary">Ch. {chapter.chapter_number}</span>
                       <h2 className="text-xl font-bold">{chapter.title}</h2>
                       {isCompleted && <CheckCircle className="w-5 h-5 text-green-500 ml-2" />}
                       {isLocked && <Lock className="w-4 h-4 text-muted-foreground ml-2" />}
