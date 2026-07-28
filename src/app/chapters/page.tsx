@@ -1,62 +1,53 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { BookOpen, CheckCircle, Lock, PlayCircle } from "lucide-react";
+import { BookOpen, CheckCircle, Lock, PlayCircle, Loader2 } from "lucide-react";
 import { Card } from "@/components/ui/Card";
 import { Button } from "@/components/ui/Button";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { createClient } from "@/utils/supabase/client";
 
-// Mock data representing the textbook chapters
-const chapters = [
-  {
-    id: "chapter-1",
-    number: 1,
-    title: "Greetings",
-    description: "Learn basic greetings and introductions.",
-    status: "completed",
-    vocabCount: 15,
-    grammarCount: 2,
-  },
-  {
-    id: "chapter-2",
-    number: 2,
-    title: "Family",
-    description: "Talk about your family members and relationships.",
-    status: "completed",
-    vocabCount: 22,
-    grammarCount: 3,
-  },
-  {
-    id: "chapter-3",
-    number: 3,
-    title: "Dates & Time",
-    description: "Learn to tell time, days of the week, and dates.",
-    status: "in-progress",
-    vocabCount: 28,
-    grammarCount: 4,
-  },
-  {
-    id: "chapter-4",
-    number: 4,
-    title: "Shopping & Prices",
-    description: "Buy things and ask for prices.",
-    status: "locked",
-    vocabCount: 35,
-    grammarCount: 5,
-  },
-  {
-    id: "chapter-5",
-    number: 5,
-    title: "Food & Drinks",
-    description: "Order food in a restaurant and talk about preferences.",
-    status: "locked",
-    vocabCount: 40,
-    grammarCount: 4,
-  },
-];
+interface Chapter {
+  id: string;
+  chapter_number: number;
+  title: string;
+  description: string;
+  status: string;
+  vocabCount: number;
+  grammarCount: number;
+}
 
 export default function ChaptersPage() {
+  const [chapters, setChapters] = useState<Chapter[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const supabase = createClient();
+
+  useEffect(() => {
+    async function fetchChapters() {
+      const { data, error } = await supabase
+        .from('chapters')
+        .select('*')
+        .order('chapter_number', { ascending: true });
+        
+      if (error) {
+        console.error("Error fetching chapters:", error);
+      } else if (data) {
+        const mappedChapters = data.map(ch => ({
+          ...ch,
+          // Hardcode for now until user progress logic is built
+          status: 'completed', 
+          vocabCount: 20, // Approx count based on our upload
+          grammarCount: 0,
+        }));
+        setChapters(mappedChapters);
+      }
+      setIsLoading(false);
+    }
+    fetchChapters();
+  }, []);
+
   const containerVariants = {
     hidden: { opacity: 0 },
     show: {
@@ -69,6 +60,14 @@ export default function ChaptersPage() {
     hidden: { opacity: 0, x: -20 },
     show: { opacity: 1, x: 0 },
   };
+
+  if (isLoading) {
+    return (
+      <div className="flex items-center justify-center min-h-[60vh]">
+        <Loader2 className="w-8 h-8 animate-spin text-primary" />
+      </div>
+    );
+  }
 
   return (
     <div className="p-6 md:p-10 max-w-4xl mx-auto space-y-8">
