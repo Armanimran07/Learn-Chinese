@@ -153,6 +153,7 @@ export default function LearnPage() {
                   </div>
                   <p className="text-sm text-muted-foreground italic">{word.example_sentence}</p>
                 </div>
+              </Card>
               ))
             )}
           </motion.div>
